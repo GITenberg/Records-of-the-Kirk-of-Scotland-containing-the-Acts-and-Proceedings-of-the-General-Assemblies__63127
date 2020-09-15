@@ -1,0 +1,34 @@
+_repo: Records-of-the-Kirk-of-Scotland-containing-the-Acts-and-Proceedings-of-the-General-Assemblies__63127
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Church of Scotland. General Assembly
+    alias: General Assembly of the Church of Scotland
+    gutenberg_agent_id: '33613'
+    url: http://www.gutenberg.org/2009/agents/33613
+    wikipedia: https://en.wikipedia.org/wiki/General_Assembly_of_the_Church_of_Scotland
+  editor:
+    agent_name: Peterkin, Alexander
+    alias: Peterkin, Alex. (Alexander)
+    birthdate: 1780
+    deathdate: 1846
+    gutenberg_agent_id: '52299'
+    url: http://www.gutenberg.org/2009/agents/52299
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Peterkin
+description: '"Vol. I" but no more published.'
+gutenberg_issued: '2020-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of Scotland -- History -- Sources'
+- !lcc 'BX'
+- GITenberg
+title: "Records of the Kirk of Scotland\r\ncontaining the Acts and Proceedings of\
+  \ the General Assemblies from 1638 downwards, as authenticated by the clerks of\
+  \ assembly."
+url: http://www.gutenberg.org/ebooks/63127
